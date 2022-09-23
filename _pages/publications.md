@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
-{% include base_path %}
+See a full list on  [Google Scholar](https://scholar.google.com/citations?user=oh297TsAAAAJ)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+---
+**Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning**  
+Lianmin Zheng \*, Zhuohan Li \*, Hao Zhang \*, **Yonghao Zhuang**, Zhifeng Chen, Yanping Huang, Yida Wang, Yuanzhong Xu, Danyang Zhuo, Joseph E. Gonzalez, Ion Stoica  
+<span style="color:green; font-style:italic">OSDI 2022</span>  
+[[paper]](https://arxiv.org/abs/2201.12023)
+[[code]](https://github.com/alpa-projects/alpa)
