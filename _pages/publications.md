@@ -15,3 +15,7 @@ Lianmin Zheng \*, Zhuohan Li \*, Hao Zhang \*, **Yonghao Zhuang**, Zhifeng Chen,
 <span style="color:green; font-style:italic">OSDI 2022</span>  
 [[paper]](https://arxiv.org/abs/2201.12023)
 [[code]](https://github.com/alpa-projects/alpa)
+
+**On Optimizing the Communication of Model Parallelism**  
+**Yonghao Zhuang** *, Hexu Zhao *, Lianmin Zheng, Zhuohan Li, Eric P. Xing, Qirong Ho, Joseph E. Gonzalez, Ion Stoica, Hao Zhang  
+[[paper]](https://arxiv.org/abs/2211.05322)
