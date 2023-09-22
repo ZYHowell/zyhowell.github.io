@@ -12,7 +12,7 @@ See a full list on [Google Scholar](https://scholar.google.com/citations?user=oh
 
 **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**
 Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, **Yonghao Zhuang**, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica
-<span style="color:green; font-style:italic">In submission
+<span style="color:green; font-style:italic">NeurIPS 2023 Datasets and Benchmarks
 [[paper]](https://arxiv.org/abs/2306.05685)
 
 **On Optimizing the Communication of Model Parallelism**
