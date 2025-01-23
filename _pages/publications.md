@@ -10,6 +10,12 @@ See a full list on [Google Scholar](https://scholar.google.com/citations?user=oh
 
 ---
 
+**Scaling Long Context Training Data by Long-Distance Referrals**
+
+**Yonghao Zhuang***, Lanxiang Hu*, Longfei Yun, Souvik Kundu, Zhengzhong Liu, Eric P. Xing, Hao Zhang
+<span style="color:green; font-style:italic">ICLR 2025
+[[paper]](https://openreview.net/forum?id=tePFpDgyqg)
+
 **Helix: Distributed Serving of Large Language Models via Max-Flow on Heterogeneous GPUs**
 
 Yixuan Mei, **Yonghao Zhuang**, Xupeng Miao, Juncheng Yang, Zhihao Jia, Rashmi Vinayak
